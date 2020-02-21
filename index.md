@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+Recognizing that some critical aspects of modern society can never be fully decarbonised,
+a shift to a net zero-carbon economy will necessarily require some level of carbon capture and sequestration (CCS).
+Many approaches to CCS have been proposed, including [pumping CO2 into oil wells](http://www.sciencedirect.com/science/article/pii/S1750583618304857)
+and [trapping it as chalk precipitate](https://science.sciencemag.org/content/352/6291/1312).
+Perhaps the simplest and least controversial way to accomplish this task is to [plant trees](https://www.nature.com/articles/d41586-019-01026-8).
 
-You can use the [editor on GitHub](https://github.com/uctrees/uctrees-www/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+To give an idea of the scale involved, the median carbon sequestration potential of an agroforestry system, which combines agriculture and forestry, is estimated to be [about 95 metric tons (T) per hectare](https://www.sciencedirect.com/science/article/abs/pii/S0167880903001385) and,
+if left undisturbed, can [trap this CO2 for decades](https://doi.org/10.1038/nature12914) or even centuries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is roughly the equivalent of the emissions from [10 UK households in one year](https://www.theccc.org.uk).
+Recent work suggests that the earth has the potential to [sustain a trillion more trees](https://science.sciencemag.org/content/365/6448/76) planted
+in approximately 900 million hectares of currently denuded land, with a carbon sequestration potential
+of 205 GT, which is comparable to anthropogenic emissions of [1500 GT to date](https://www.osti.gov/dataexplorer/biblio/dataset/1389323).
+Thus, technological interventions to promote reforestation are an attractive approach to mitigate anthropogenic climate change.
 
-### Markdown
+In addition to carbon sequestration, forests provide many other benefits both to the environment and to humans. Environmental benefits
+include air purification, flood prevention, slope stabilization, and increasing bio-diversity. Human benefits include
+jobs in forestry and agroforestry, improving public health, providing food (such as chestnuts), and providing a source of sustainable building materials.
+For these reasons, reforestation has become a topic of great current interest, with the World Economic Forum announcing
+in January 2020 an initiative to plant [1 trillion trees](TODO)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Similarly, the Plant for the Planet initiative also aims to plant 1 trillion trees~\cite{pftp}
+with more than 13.5 billion planted so far.
+However, reforestation is not simply a matter of
+planting saplings or seeds in the ground~\cite{lamb_large-scale_2014}.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uctrees/uctrees-www/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
