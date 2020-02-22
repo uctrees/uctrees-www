@@ -7,7 +7,7 @@ interest from the University of Cambridge. We envision that such a response
 would be informed by the discipline of Forest Landscape Restoration but would
 draw upon computing technologies, broadly defined.
 
-<img src="pembroke.jog" width="100%" />
+<img src="pembroke.jpg" width="100%" />
 
 ### Arrangements
 
