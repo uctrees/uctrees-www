@@ -23,3 +23,9 @@ The schedule is currently being organised, but will consist of a brief
 introduction to the existing UCTrees research findings, followed by discussion
 sessions on the practise of planning, deploying and sustaining reforestation
 efforts.
+
+### Organisers
+
+- David Coomes (Plant Sciences)
+- Srinivasan Keshav (Computer Science and Technology)
+- Anil Madhavapeddy (Computer Science and Technology)
