@@ -17,7 +17,7 @@ and, if left undisturbed, can [trap this CO2 for
 decades](https://doi.org/10.1038/nature12914) or even centuries.
 
 This is roughly the equivalent of the emissions from [10 UK households in one
-year](https://www.theccc.org.uk).  Recent work suggests that the earth has the
+year](https://www.theccc.org.uk). It is widely accepted that protecting old growth forests and restoring degraded areas is a highly effective approach for mitigating climate change. One controversial paper suggests that the Earth has the
 potential to [sustain a trillion more
 trees](https://science.sciencemag.org/content/365/6448/76) planted in
 approximately 900 million hectares of currently denuded land, with a carbon
@@ -31,7 +31,7 @@ In addition to carbon sequestration, forests provide many other benefits both
 to the environment and to humans. Environmental benefits include air
 purification, flood prevention, slope stabilization, and increasing
 bio-diversity. Human benefits include jobs in forestry and agroforestry,
-improving public health, providing food (such as chestnuts), and providing a
+improving public health, providing food, and providing a
 source of sustainable building materials.  For these reasons, reforestation has
 become a topic of great current interest, with the World Economic Forum
 announcing in January 2020 an initiative to plant [1 trillion trees](https://www.trilliontrees.org).  Similarly, the [Plant for the Planet](https://www.plant-for-the-planet.org/en/home) initiative also aims to plant 1 trillion trees, with more than 13.5 billion planted so far.
@@ -64,7 +64,7 @@ participatory management of communal forests).  Importantly, reforestation
 outcomes must be economically sustainable for all stakeholders.  To ensure
 this, local actors must be engaged participants in the planning process.
 
-Second, there is a dire need for the improved monitoring of trees, other
+Second, there is a need for the improved monitoring of trees, other
 vegetation, soil, and wood products at all spatial scales. This monitoring can
 not only help identify degraded lands and the best approach for forest
 regeneration but also help evaluate forest health, raise the alarm for

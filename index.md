@@ -1,6 +1,6 @@
 ## Introduction
 
-UCTrees is a research project aimed at bringing computer science techniques to help [improve the best current practises](background.html) in forest and landscape restoration.  It started in January 2020 in the [University of Cambridge Computer Laboratory](https://www.cl.cam.ac.uk/) with members of the [Systems Research Group](people.html) and collaborators.
+UCTrees is a research project aimed at bringing computer science techniques to help [improve the best current practises](background.html) in forest and landscape restoration.  It started in January 2020 in the [University of Cambridge Computer Laboratory](https://www.cl.cam.ac.uk/) with members of the [Systems Research Group](people.html), collaborating with researchers at the [Cambridge Conservation Initiative (CCI)](https://www.cambridgeconservation.org/) and [Cambridge Zero](https://www.zero.cam.ac.uk/).
 
 ## Recent Activities
 

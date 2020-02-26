@@ -5,6 +5,7 @@ UCTrees is a research project that started in January 2020 in the [University of
 - Srinivasan Keshav (UCam)
 - Anil Madhavapeddy (UCam)
 - Jon Crowcroft (UCam)
+- David Coomes (Director of Cambridge University Conservation Research Institute, CCI)
 
 ### Researchers
 
